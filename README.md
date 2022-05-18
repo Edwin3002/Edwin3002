@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edwin Vargas Ayala</h1>
 <h3 align="center">A passionate frontend developer from Colombia that develop solutions for the world</h3>
 
-- 🌱 I’m currently learning **react abd MySQL**
+- 🌱 I’m currently learning **MySQL**
 
 - 📫 How to reach me **vargas11742@gmail.com**
 
