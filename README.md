@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edwin Vargas Ayala</h1>
+<h1 align="center">Hi 👋, I'm Edwin</h1>
 <img src="https://res.cloudinary.com/edwin3002/image/upload/v1652897604/copia_eln4yh.png" alt="edwin">
 <h3 align="center">A passionate frontend developer from Colombia that develop solutions for the world</h3>
 
