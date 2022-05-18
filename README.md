@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin Vargas Ayala</h1>
+<img src="https://i.ibb.co/Hrpg998/ed.png](https://res.cloudinary.com/edwin3002/image/upload/v1652897357/ed2_3_jtlhqw.png" alt="edwin">
 <h3 align="center">A passionate frontend developer from Colombia that develop solutions for the world</h3>
 
 - 🌱 I’m currently learning **MySQL**
