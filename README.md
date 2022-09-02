@@ -2,7 +2,7 @@
 <img src="https://res.cloudinary.com/edwin3002/image/upload/v1652897604/copia_eln4yh.png" alt="edwin">
 <h3 align="center">A passionate frontend developer from Colombia that develop solutions for the world</h3>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **MySQL** and **Express js**
 
 - 📫 How to reach me **vargas11742@gmail.com**
 
