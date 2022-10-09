@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
-<img src="https://res.cloudinary.com/edwin3002/image/upload/v1656358366/portafolio/portafolioBG3_kaviwh.jpg" alt="edwin">
+<img src="https://res.cloudinary.com/edwin3002/image/upload/v1665274133/portafolio/ed_2_lltmxt.png" alt="edwin">
 <h3 align="center">A passionate frontend developer from Colombia that develop solutions for the world</h3>
 
 - 🌱 I’m currently learning **MySQL** and **Express js**
