@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **edwin.dev3002@gmail.com**
 
-- 💼 click to see my portfolio **https://www.edwin-dev.tech/**
+- 💼 click to see my portfolio **https://edwin-dev.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
