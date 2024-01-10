@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
 <img src="https://res.cloudinary.com/edwin3002/image/upload/v1665274133/portafolio/ed_2_lltmxt.png" alt="edwin">
-<h3 align="center">A passionate frontend developer from Colombia that develop solutions for the world</h3>
+<h3 align="center">I work together with professionals and freelancers to achieve shared goals, consolidating outstanding products in their respective fields and outperforming the competition</h3>
 
 
 - 📫 How to reach me **edwin.dev3002@gmail.com**
