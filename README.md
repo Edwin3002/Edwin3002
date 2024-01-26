@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
-<img src="https://res.cloudinary.com/edwin3002/image/upload/v1665274133/portafolio/ed_2_lltmxt.png" alt="edwin">
+<img src="https://res.cloudinary.com/edwin3002/image/upload/v1706248065/portafolio/banner_zip8hu.png" alt="edwin">
 <h3 align="center">I work together with professionals and freelancers to achieve shared goals, consolidating outstanding products in their respective fields and outperforming the competition</h3>
 
 
